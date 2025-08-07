@@ -8,34 +8,34 @@ const sculptures = [
   {
     id: 1,
     image: sculpture1,
-    title: "Essência Abstrata",
-    material: "Mogno Polido",
-    year: "2023",
-    description: "Uma exploração das formas orgânicas através do mogno brasileiro"
+    title: "Dragão Chinês",
+    material: "Madeira Nobre",
+    year: "2024",
+    description: "A peça se destaca pela riqueza de detalhes, desde as escamas minuciosamente entalhadas até a expressividade do rosto. A textura e o movimento transmitem a energia mítica da criatura, celebrando a cultura asiática com um toque artesanal brasileiro."
   },
   {
     id: 2,
     image: sculpture2,
-    title: "Voo Livre",
-    material: "Nogueira Escura",
-    year: "2023",
-    description: "Inspirada na liberdade dos pássaros, capturando movimento em madeira"
+    title: "Griffo",
+    material: "Madeira Nobre",
+    year: "2021",
+    description: "Com um estilo que remete à arte sacra e à heráldica, esta escultura de um grifo em madeira nobre impressiona pelo seu volume e pelo acabamento detalhado. A peça destaca-se pela robustez do corpo e pela suavidade das penas, unindo a majestade da águia com a força do leão. É uma obra que evoca a mitologia e a tradição."
   },
   {
     id: 3,
     image: sculpture3,
-    title: "Torso Contemporâneo",
-    material: "Cerejeira",
-    year: "2022",
-    description: "Interpretação moderna da forma humana em cerejeira polida"
+    title: "Ponte",
+    material: "Madeira Nobre",
+    year: "2015",
+    description: "A escultura Ponte é uma peça de grande expressividade e simbolismo. Ela representa um abraço, com as mãos unindo-se acima de uma cabeça curvada, sugerindo a conexão humana, o apoio mútuo e a superação. O acabamento rústico da madeira nobre e a forma abstrata e fluida da peça criam uma obra de profunda reflexão sobre as relações humanas."
   },
   {
     id: 4,
     image: sculpture4,
-    title: "Fluidez Natural",
-    material: "Carvalho",
-    year: "2022",
-    description: "Formas fluidas que celebram a beleza natural da madeira"
+    title: "Africana",
+    material: "Madeira Nobre",
+    year: "2013",
+    description: "Esculpida em madeira nobre, a peça é uma celebração da beleza e da dignidade da figura feminina. A escultura retrata uma mulher nua em um porte ereto e majestoso, equilibrando um cesto na cabeça. O realismo anatômico e o polimento da madeira destacam a força, a graça e a serenidade, transformando a peça em um tributo à cultura africana."
   }
 ];
 

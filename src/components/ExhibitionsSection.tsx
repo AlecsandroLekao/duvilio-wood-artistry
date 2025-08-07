@@ -57,7 +57,7 @@ const ExhibitionsSection = () => {
           </h2>
           <div className="w-24 h-1 bg-gradient-accent mx-auto"></div>
           <p className="text-xl text-muted-foreground max-w-3xl mx-auto">
-            A arte de Carlos Duvilio transcendeu fronteiras, sendo reconhecida em prestigiadas galerias e museus ao redor do mundo.
+            A arte de Carlos Duvilio transcendeu fronteiras, sendo reconhecida e prestigiadas ao redor do mundo.
           </p>
         </div>
         
@@ -104,7 +104,7 @@ const ExhibitionsSection = () => {
         <div className="mt-16 text-center animate-fade-in" style={{ animationDelay: '1s' }}>
           <div className="inline-flex items-center space-x-4 bg-wood-grain/10 backdrop-blur-sm rounded-2xl px-8 py-4">
             <div className="w-3 h-3 bg-accent rounded-full animate-pulse"></div>
-            <span className="text-wood-grain font-medium">6 países • 3 continentes • Reconhecimento internacional</span>
+            <span className="text-wood-grain font-medium">5 países • 3 continentes • Reconhecimento internacional</span>
             <div className="w-3 h-3 bg-accent rounded-full animate-pulse"></div>
           </div>
         </div>

@@ -93,16 +93,6 @@ const TestimonialsSection = () => {
               <div className="text-2xl font-bold text-wood-grain">98%</div>
               <div className="text-xs text-muted-foreground">Satisfação</div>
             </div>
-            <div className="w-px h-8 bg-border"></div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-wood-grain">50+</div>
-              <div className="text-xs text-muted-foreground">Colecionadores</div>
-            </div>
-            <div className="w-px h-8 bg-border"></div>
-            <div className="text-center">
-              <div className="text-2xl font-bold text-wood-grain">15+</div>
-              <div className="text-xs text-muted-foreground">Críticas Positivas</div>
-            </div>
           </div>
         </div>
       </div>

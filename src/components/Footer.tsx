@@ -12,7 +12,7 @@ const Footer = () => {
           {/* Brand Section */}
           <div className="space-y-6 animate-fade-in">
             <div className="space-y-4">
-              <h3 className="text-3xl font-bold text-accent">Carlos Duvilio</h3>
+              <h3 className="text-3xl font-bold text-accent">Carlos Duvilio Squarcini</h3>
               <p className="text-cream/80 leading-relaxed">
                 Escultor renomado especializado em arte em madeira, 
                 criando obras exclusivas que transcendem fronteiras e 
