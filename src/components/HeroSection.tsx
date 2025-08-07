@@ -28,6 +28,8 @@ const HeroSection = () => {
                 Carlos
                 <br />
                 Duvilio
+                <br />
+                Squarcini
               </h1>
               <div className="w-24 h-1 bg-gradient-accent mx-auto lg:mx-0"></div>
               <p className="text-2xl lg:text-3xl text-muted-foreground font-light">
@@ -36,7 +38,7 @@ const HeroSection = () => {
             </div>
             
             <p className="text-lg text-foreground/80 max-w-xl mx-auto lg:mx-0 leading-relaxed">
-              Artista renomado de Campinas-SP, especializado em criar obras únicas que transformam madeira em arte contemporânea. 
+              Artista renomado de Campinas-SP, especializado em criar obras únicas que transformam madeira em arte.
               Reconhecido internacionalmente por suas exposições em diversos países.
             </p>
             

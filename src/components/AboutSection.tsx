@@ -17,29 +17,25 @@ const AboutSection = () => {
             
             <div className="space-y-6 text-lg text-foreground/80 leading-relaxed">
               <p>
-                Carlos Duvilio é um escultor renomado de Campinas, São Paulo, que há décadas dedica sua vida à arte de transformar madeira em obras de beleza extraordinária. Sua paixão pela escultura começou ainda jovem e evoluiu para uma carreira internacional de prestígio.
+               Carlos Duvilio Squarcini é um escultor renomado de Campinas, São Paulo, que desde 1967 dedica sua vida à arte de transformar a madeira em obras de beleza extraordinária. Sua paixão pela escultura se manifesta em um trabalho profundamente influenciado pela arte sacra brasileira e pela mestria de nomes como Aleijadinho.
               </p>
               
               <p>
-                Com técnicas refinadas e um olhar único para as possibilidades da madeira, Carlos criou um estilo próprio que combina tradição artesanal com contemporaneidade. Suas obras já foram expostas em galerias e museus de diversos países, incluindo França, Itália, Estados Unidos e Argentina.
+               Com técnicas refinadas e um olhar único para as possibilidades da madeira, Carlos criou um estilo próprio que combina a riqueza da tradição artesanal com a sua identidade. Suas obras já foram expostas em diversos eventos culturais, incluindo exposições no SESC Campinas e São Paulo.
               </p>
               
               <p>
-                O reconhecimento internacional de seu trabalho o estabeleceu como uma das principais referências em escultura em madeira no Brasil. Cada peça é única, refletindo não apenas sua maestria técnica, mas também sua profunda conexão espiritual com a matéria-prima.
+                O reconhecimento de seu trabalho o levou a representar o Brasil no World Wood Day, um evento internacional realizado na China e na Turquia, onde teve a oportunidade de compartilhar sua arte com escultores do mundo todo, assim se consolidando como uma das principais referências em escultura em madeira no Brasil. Cada peça que produz é única, refletindo não apenas sua maestria técnica, mas também sua profunda conexão espiritual com a matéria-prima.
               </p>
             </div>
             
             <div className="grid grid-cols-3 gap-6 py-8">
               <div className="text-center">
-                <div className="text-3xl font-bold text-wood-grain">25+</div>
+                <div className="text-3xl font-bold text-wood-grain">50+</div>
                 <div className="text-sm text-muted-foreground">Anos de Experiência</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-wood-grain">8</div>
-                <div className="text-sm text-muted-foreground">Países Visitados</div>
-              </div>
-              <div className="text-center">
-                <div className="text-3xl font-bold text-wood-grain">150+</div>
+                <div className="text-3xl font-bold text-wood-grain">500+</div>
                 <div className="text-sm text-muted-foreground">Obras Criadas</div>
               </div>
             </div>
@@ -61,8 +57,8 @@ const AboutSection = () => {
               />
               <div className="absolute inset-0 bg-gradient-to-t from-wood-grain/60 to-transparent rounded-2xl"></div>
               <div className="absolute bottom-6 left-6 right-6 text-white">
-                <p className="text-sm font-medium">Exposição Internacional - Paris, França</p>
-                <p className="text-xs opacity-80">Galeria d'Art Contemporain, 2023</p>
+                <p className="text-sm font-medium">World Wood Day - Turquia</p>
+                <p className="text-xs opacity-80">Eskişehir, TR - 2015</p>
               </div>
             </div>
           </div>
